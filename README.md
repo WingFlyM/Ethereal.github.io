@@ -1,2 +1,1 @@
 # Ethereal.github.io
-Elegant
